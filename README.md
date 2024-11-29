@@ -16,18 +16,45 @@ We at RP4K wish to encourage students who have an interest in coding, math or ge
 Below is a detailed list of what a student will learn throughout our Python UpStream course.
 
 ## General Code Skill
+- Scope (global variables, access modifiers, static classes)
+- Functions (Lambda Expressions)
+- Events (Callbacks, Delegates)
+- Collections (List, Array, IEnumerable, etc.)
+- For Loops (forward and reverse)
+- Conditional Statements (ternary operations, if, etc.) 
+- Refactoring
+- Importing Packages
+- Understanding Finite State Machines (movement patterns, attack patterns, etc.)
+
+## Unity Game Engine
+- GameObjects and Components
+- Understanding Parent and Child Hierarchy
+- ScriptableObjects and Monobehaviours
+- Understanding Entity Component System
+- Rendering in Unity (SpriteRenderer, Animator, AnimationClips etc.)
+- Unity Tags and Layers
+- Collision based Physics and Raycasting
+- Unity Events Functions (Awake, Start, Update, LateUpdate, OnCollisionEnter, etc.)
+- Unity Audio System (AudioListener)
 
 ## Objected Oriented Programming
+- Inheritance (Monobehaviour, Sprite, etc.)
+- Understanding struct vs. class
 
 ## Math
-  
+- Understanding Vectors in Unity (Vector2)
+- Trigonometry (angles, radians, cos, sin, rotate around position)
+- Cartesian Grid and 2D Graphs
+- Math Operations (Mathf class usage, arithmetic)
+- Understanding Time.deltaTime, FixedUpdate, FPS
+
 # Course Outline
 The course is broken into 12 main lessons, each with a specific objective in mind.
 These lessons take 1-2 weeks to complete depending on pacing.
 
 | Lesson | Topic                       | Suggested Homework                                   |
 |------|-----------------------------------|------------------------------------------------------|
-| 1    | Installation and Project Setup       |                                                      |
+| 1    | Installation and Project Setup              |                                                      |
 | 2    | Level Layout and Player Creation            |                                                      |
 | 3    | Reading Input                               |                                                      |
 | 4    | Character Movement                          |                                                      |
